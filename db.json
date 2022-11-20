@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "name": "Aidin",
+      "password": "123",
+      "isAdmin": true,
+      "id": 1
+    },
+    {
+      "name": "John",
+      "password": "222",
+      "isAdmin": false,
+      "id": 2
+    },
+    {
+      "name": "Genry",
+      "password": "000",
+      "isAdmin": true,
+      "id": 3
+    },
+    {
+      "name": "Harry",
+      "password": "777",
+      "isAdmin": false,
+      "id": 4
+    },
+    {
+      "name": "Holand",
+      "password": "555",
+      "isAdmin": true,
+      "id": 5
+    },
+    {
+      "name": "kkk",
+      "password": "555",
+      "isAdmin": false,
+      "id": 6
+    },
+    {
+      "name": "whytdan",
+      "password": "111000",
+      "isAdmin": true,
+      "id": 7
+    }
+  ]
+}
